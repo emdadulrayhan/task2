@@ -1,0 +1,20 @@
+p{color:blue;
+font-size:25px}
+p:hover{color:red}
+#abc{color:yellow}
+#abc:hover{color:white}
+body{background-image:url("img/cover.jpg");
+background-attachment:fixed;
+background-size:cover;
+}
+.b{color:red;
+font-family:arial;
+   font-weight:bold;
+   font-style:italic;
+}
+.color{color:white;
+font-family:arial;
+font-size:25px}
+.d{font-family:arial;
+color: red;
+font-size:25px};
